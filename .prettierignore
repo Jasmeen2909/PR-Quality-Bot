@@ -1,0 +1,9 @@
+.next
+node_modules
+package-lock.json
+
+# Planning/spec docs: prose with intentional wording and wrapping,
+# not source code — excluded from auto-formatting.
+CLAUDE.md
+.claude/
+docs/
